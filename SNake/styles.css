@@ -1,0 +1,8 @@
+body{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#canvasGame {
+    border: 3px solid rgb(209, 5, 5);
+}
